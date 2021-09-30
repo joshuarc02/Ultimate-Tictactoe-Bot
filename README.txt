@@ -1,2 +1,0 @@
-This is my code for codingGame competition https://www.codingame.com/ide/puzzle/tic-tac-toe.
-This blog post was quite helpful: https://jeffbradberry.com/posts/2015/09/intro-to-monte-carlo-tree-search/.
